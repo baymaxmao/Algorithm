@@ -1,0 +1,7 @@
+E:\2018\Test\TestAlgorithm\TestAlgorithm\bin\Debug\TestAlgorithm.exe.config
+E:\2018\Test\TestAlgorithm\TestAlgorithm\bin\Debug\TestAlgorithm.exe
+E:\2018\Test\TestAlgorithm\TestAlgorithm\bin\Debug\TestAlgorithm.pdb
+E:\2018\Test\TestAlgorithm\TestAlgorithm\obj\Debug\TestAlgorithm.csprojAssemblyReference.cache
+E:\2018\Test\TestAlgorithm\TestAlgorithm\obj\Debug\TestAlgorithm.csproj.CoreCompileInputs.cache
+E:\2018\Test\TestAlgorithm\TestAlgorithm\obj\Debug\TestAlgorithm.exe
+E:\2018\Test\TestAlgorithm\TestAlgorithm\obj\Debug\TestAlgorithm.pdb
